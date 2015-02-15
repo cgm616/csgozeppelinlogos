@@ -1,0 +1,9 @@
+Package: com.cgm616.csgozeppelinlogos
+Name: CSGO Zeppelin Logos
+Version 1.0.0-1
+Architecture: iphoneos-arm
+Description: CSGO-related logos for Zeppelin!
+Depiction: http://cgm616.github.io/depictions?deb=com.cgm616.csgozeppelinlogos
+Maintainer: cgm616 <cgm616+cydia@gmail.com>
+Author: madhav908 <madhav908+cydia@gmail.com>
+Section: Addons (Zeppelin) 
