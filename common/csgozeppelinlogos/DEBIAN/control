@@ -3,6 +3,7 @@ Name: CSGO Zeppelin Logos
 Version: 0.0.1-1
 Architecture: iphoneos-arm
 Description: CSGO-related logos for Zeppelin!
+Depiction: http://repo.graber-mitchell.com/depictions/?dep=csgozeppelinlogos
 Maintainer: cgm616 <cgm616+cydia@gmail.com>
 Author: madhav908 <madhav908+cydia@gmail.com>
 Section: Addons (Zeppelin) 
